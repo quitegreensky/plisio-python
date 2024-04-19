@@ -21,7 +21,6 @@ setup(
     install_requires=[
         'aiohttp',
         'requests',
-        'hmac'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
